@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/toms-chess-journey/static/css/main.e6c13ad2.css",
+    "main.js": "/toms-chess-journey/static/js/main.46928fea.js",
+    "static/js/787.615be28d.chunk.js": "/toms-chess-journey/static/js/787.615be28d.chunk.js",
+    "index.html": "/toms-chess-journey/index.html",
+    "main.e6c13ad2.css.map": "/toms-chess-journey/static/css/main.e6c13ad2.css.map",
+    "main.46928fea.js.map": "/toms-chess-journey/static/js/main.46928fea.js.map",
+    "787.615be28d.chunk.js.map": "/toms-chess-journey/static/js/787.615be28d.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.46928fea.js"
+  ]
+}
